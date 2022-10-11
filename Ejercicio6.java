@@ -19,6 +19,7 @@ public class Ejercicio6 {
 		//Variable "altura" & "asterisco"
 		int altura = 5;
 		int asterisco = 1;
+		//Variable "i"
 		//First loop for "altura"
 		for ( int i = 1 ; i <= altura ; i++ ) {
 			//Variable "espacio"
