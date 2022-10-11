@@ -1,5 +1,21 @@
+/*
+    ************************************************************************************
+    *                                                                                  *
+    *         1.   Salida por pantalla                                                 *
+    *                                                                                  *
+    *         4.   Escribe un programa que muestre tu horario de clase. Puedes         *
+    *              usar espacios o tabuladores para alinear el texto.                  *
+    *                                                                                  *
+    ************************************************************************************
+    *                                                              |  |                *
+    *                                                              |  |                *
+    *                    @author Adrián Perogil Fernández        *      *              *
+    *                                                             ******               *
+    ************************************************************************************
+*/
 public class Ejercicio4 {
     public static void main(String[] args) {
+        //Outputs
         System.out.println("┌───────┬───────┬───────┬───────┬───────┐");
         System.out.println("│Lunes\t│Martes\t│Mierc.\t│Jueves\t│Viern.\t│");
         System.out.println("│───────│───────│───────│───────│───────│");
