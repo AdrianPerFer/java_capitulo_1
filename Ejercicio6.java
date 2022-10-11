@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.util.InputMismatchException;
 
 public class Ejercicio6 {
 	public static void main(String[] args) {
