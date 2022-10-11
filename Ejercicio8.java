@@ -3,7 +3,7 @@
     *                                                                                  *
     *         1.   Salida por pantalla                                                 *
     *                                                                                  *
-    *         7.   Igual que el programa anterior, pero esta vez la pirámide           *
+    *         8.   Igual que el programa anterior, pero esta vez la pirámide           *
 	*			   estará hueca (se debe ver únicamente el contorno hecho con *)       *
     *                                                                                  *
     ************************************************************************************
