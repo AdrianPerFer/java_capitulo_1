@@ -16,6 +16,7 @@
 */
 public class Ejercicio2 {
     public static void main(String[] args) {
+        //Outputs
         System.out.println("Adrián Perogil Fernández");
         System.out.println("Calle Alozaina, 3 - Estación de Cártama");
         System.out.println("Tlfo: 622274396");
